@@ -46,7 +46,7 @@ jobs:
             git switch -c output --track origin/output
           else
             git switch --orphan output
-            git rm -rf .
+            git rm -rf --ignore-unmatch .
           fi
           cp "$RUNNER_TEMP"/github-snake*.svg .
           git config user.name 'github-actions[bot]'
