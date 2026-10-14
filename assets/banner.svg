@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Guilherme Marques — Full Stack e DevOps">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#172b48"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#315071" stroke-opacity=".2"/></pattern></defs>
+<rect width="1200" height="320" rx="22" fill="url(#bg)"/><rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+<circle cx="1060" cy="160" r="110" fill="none" stroke="#38bdf8" stroke-opacity=".2"/><circle cx="1060" cy="160" r="78" fill="none" stroke="#2dd4bf" stroke-opacity=".4"/>
+<text x="65" y="67" fill="#2dd4bf" font-family="monospace" font-size="16" letter-spacing="3">GUI MARQUES CODE</text>
+<text x="60" y="143" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="54" font-weight="700">Guilherme Marques</text>
+<text x="64" y="194" fill="#7dd3fc" font-family="Arial,sans-serif" font-size="26">Full Stack &amp; DevOps</text>
+<text x="65" y="258" fill="#b8c8dc" font-family="Arial,sans-serif" font-size="19">Aplicações web · Contêineres · Automação</text>
+<text x="988" y="184" fill="#2dd4bf" font-family="monospace" font-size="66">&lt;/&gt;</text></svg>
